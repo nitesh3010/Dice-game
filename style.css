@@ -1,0 +1,37 @@
+body{
+    background-color: darkslategray;
+}
+.color{
+    color: azure;
+    }
+.result{
+    font-size: 5rem;
+    }
+h1{
+    font-size: 4rem;
+    font-family: 'Bonheur Royale', cursive;
+    padding: 1rem 0;
+    color: aquamarine;
+}
+ .container{
+     text-align: center;
+ }
+.dice{
+    font-size: 1.5rem;
+    color: azure;
+   padding: 0 2rem;
+   text-align: center;
+   display: inline-block;
+}
+.image{
+    width: 55%;
+    height: 55%;
+}
+footer{
+  
+    text-align: center;
+    color: azure;
+    padding: 5rem;
+    
+}
+
